@@ -1,4 +1,6 @@
 #!/bin/bash
+#by lijiankai 20160321
+
 ###当keepalived监测到本机转为MASTER状态时，执行该脚本
 
 change_log=/etc/keepalived/logs/state_change.log
